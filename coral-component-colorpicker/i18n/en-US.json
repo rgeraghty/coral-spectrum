@@ -1,0 +1,18 @@
+{
+    "Hex": "Hex",
+    "Hex3": "Hex3",
+    "Hex4": "Hex4",
+    "Hex8": "Hex8",
+    "RGB": "RGB",
+    "HSV": "HSV",
+    "HSL": "HSL",
+    "Name": "Name",
+    "Hue":  "Hue",
+    "Color Value": "Color Value",
+    "Enter Color Value": "Enter Color Value",
+    "Color Picker": "Color Picker",
+    "Saturation and Brightness": "Saturation and Brightness",
+    "Saturation": "Saturation",
+    "Brightness": "Brightness",
+    'Select Color Format': 'Select Color Format'
+  }
